@@ -4,4 +4,7 @@
 
 
 ## These two examples illustrate what we call the multiplication principle.
-### The number of ways of making a sequence of independent choices: is just the product of the number of choices at each step.
+#### The number of ways of making a sequence of independent choices: is just the product of the number of choices at each step.
+
+## Factorial notation
+### n! : n exclamation mark
