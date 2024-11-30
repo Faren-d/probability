@@ -8,3 +8,54 @@
 
 ## Factorial notation
 ### n! : n exclamation mark
+
+## Subtraction principle
+
+The point is that it's sometimes easier to count the objects that don't satisfy the condition, like the vowels, then the objects that do-- the consonants. 
+
+And subtracting off that answer gives the right answer, which is why we call it the subtraction principle.
+
+### Example:
+
+How many numbers between 23 and 283 are not divisible by 5?
+
+Well, by the subtraction principle, we want to calculate the total number of numbers and subtract the ones which are divisible by 5. The total number is 283 minus 22, which is 261 numbers.The ones divisible by 5 run from 25 to 280. And dividing those by 5, you get the numbers between 5 and 56. So our previous method show that there are 56 minus 4 or 52 numbers that are divisible by 5.
+
+First, count the TOTAL number of numbers in the range
+
+Then, count the numbers DIVISIBLE by 5
+
+Subtract the numbers divisible by 5 from the total number
+
+Total number of numbers: Range is from 23 to 283
+
+Total numbers = 283 - 23 + 1 = 261 numbers (We add 1 because we're counting inclusively)
+
+Numbers divisible by 5:
+
+- Smallest number divisible by 5 in this range: 25 -----This means 25 is the 5th number in the sequence of numbers divisible by 5
+- Largest number divisible by 5 in this range: 280  -----This means280 is the 56th number in the sequence of numbers divisible by 5
+
+- So the range 5 to 56 represents the INDEX of these numbers in the sequence of numbers divisible by 5, not the actual numbers themselves.
+Let's verify:
+
+- 5th number divisible by 5 starts at 25
+- 56th number divisible by 5 ends at 280
+- Count of numbers: 56 - 5 + 1 = 52 numbers divisible by 5
+
+Final calculation:
+
+- Total numbers: 261
+- Numbers divisible by 5: 52
+- Numbers NOT divisible by 5: 261 - 52 = 209
+
+
+
+
+
+
+
+
+
+
+
