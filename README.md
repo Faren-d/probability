@@ -88,8 +88,6 @@ The formula for calculating the number of collections is derived from understand
 - Note: Mathematically, division is a form of subtraction. Just like 10 ÷ 2 means "how many groups of 2 can I remove from 10", here we're removing redundant arrangements from the total count.
 - The key point: We want to count unique groups, not every possible ordering of those groups.
 
-
-
-
+- For deep understanding, watch: "2.1 Lesson: Counting Collections from the fat chance probability course."
 
 
