@@ -109,4 +109,5 @@ The formula for calculating the number of collections is derived from understand
 - ![Uploading image.png…]()
 
 - 
+![n](https://github.com/user-attachments/assets/cbedfe4c-a7b6-4593-8091-3ec8f674dabd)
 
