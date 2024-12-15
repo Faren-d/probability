@@ -103,10 +103,10 @@ The formula for calculating the number of collections is derived from understand
 
 ### symmetry of combinations
 
-- ![image](https://github.com/user-attachments/assets/5ae61798-7d18-4fc8-904f-e97fc736dee8)
+![n2](https://github.com/user-attachments/assets/4f1ba162-25bc-4cd4-b62c-b85ecc47b42d)
 
 
-- ![Uploading image.png…]()
+
 
 - 
 ![n](https://github.com/user-attachments/assets/cbedfe4c-a7b6-4593-8091-3ec8f674dabd)
