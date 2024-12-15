@@ -101,4 +101,7 @@ The formula for calculating the number of collections is derived from understand
 
 - For deep understanding, watch: "2.1 Lesson: Counting Collections from the fat chance probability course."
 
+- ![image](https://github.com/user-attachments/assets/5ae61798-7d18-4fc8-904f-e97fc736dee8)
+
+
 
