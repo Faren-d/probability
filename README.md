@@ -128,6 +128,7 @@ To apply the recursive formula, we can divide the 5-card hands into two groups: 
 
 
 
+
 ![Uploading 2.png…]()
 
 
