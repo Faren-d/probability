@@ -105,9 +105,19 @@ The formula for calculating the number of collections is derived from understand
 
 ![n2](https://github.com/user-attachments/assets/4f1ba162-25bc-4cd4-b62c-b85ecc47b42d)
 
+- This states that the binomial coefficient "n choose k"  is equal to "n choose n minus k".
 
-
+- For example, the number of ways to choose 5 cards from a deck of 52 cards (i.e., 52 choose 5) is the same as the number of ways to choose the 47 cards that are not selected (i.e., 52 choose 47).
+The key idea is that the number of ways to choose a collection of k objects from a set of n objects is the same as the number of ways to choose the remaining n-k objects. This relationship is captured in the equation shown in the image.
 
 - 
 ![n](https://github.com/user-attachments/assets/cbedfe4c-a7b6-4593-8091-3ec8f674dabd)
 
+- This formula means that the number of ways to choose k objects from a set of n objects can be broken down into two cases:
+
+- The number of ways to choose k objects from the n-1 objects, excluding the first one.
+- The number of ways to choose k-1 objects from the n-1 objects, excluding the first one.
+
+Let's consider a specific example related to poker hands. The number of 5-card hands that can be dealt from a 52-card deck, 52 choose 5, represents the total number of possible poker hands.
+
+To apply the recursive formula, we can divide the 5-card hands into two groups: those that contain the ace of spades, and those that do not. The number of hands without the ace of spades is 51 choose 5, and the number of hands with the ace of spades is 51 choose 4. Since every 5-card hand either contains the ace of spades or does not, we can add these two values to get the total number of 5-card hands, 52 choose 5.
