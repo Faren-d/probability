@@ -61,17 +61,28 @@ Example: Electing class officers (President, Vice President, etc.) is a sequence
 ##### Calculating the number of Collections:
 
 
-Take the example of choosing a committee of 5 students from a class of 15 students.
+Take the example of choosing a committee of 5 students from a class of 15 students.Alice, Bob, Charlie, David, Eve, Frank, Grace, Henry, Ivy, Jack, Kate, Leo, Mike, Nancy, and Oscar.
+Let's say we select these 5 students for our committee: Alice, Bob, Charlie, David, and Eve.
+
 The process involves:
 
 - Calculating the number of possible sequences using the multiplication principle: 15 * 14 * 13 * 12 * 11 = 15! / 10!
+
+- But how many ways can we arrange these 5 students?
+
+- 1st position can be filled by ANY of the 5 students
+- 2nd position by ANY of the remaining 4
+- 3rd position by ANY of the remaining 3
+- 4th position by ANY of the remaining 2
+- 5th position by the last remaining student
+
+This gives us: 5 × 4 × 3 × 2 × 1 = 5! = 120 different sequences
 
 - Recognizing that each collection of 5 students can be arranged into 5! different sequences.
 
 Setting up an equation: N (number of collections) * 5! = 15! / 10!
 
-Solving for N: N = (15! / 10!) / 5! = 3003
-
+Unique collections: Solving for N: N = (15! / 10!) / 5! = 3003
 
 - Important takeaways:
 
