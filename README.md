@@ -121,3 +121,5 @@ The key idea is that the number of ways to choose a collection of k objects from
 Let's consider a specific example related to poker hands. The number of 5-card hands that can be dealt from a 52-card deck, 52 choose 5, represents the total number of possible poker hands.
 
 To apply the recursive formula, we can divide the 5-card hands into two groups: those that contain the ace of spades, and those that do not. The number of hands without the ace of spades is 51 choose 5, and the number of hands with the ace of spades is 51 choose 4. Since every 5-card hand either contains the ace of spades or does not, we can add these two values to get the total number of 5-card hands, 52 choose 5.
+![Uploading image.png…]()
+
