@@ -126,6 +126,7 @@ If you select students A, B, C, D, E as a collection, the possible sequences inc
 - Each of these is a different sequence, but they represent the same collection.
 ### Binomial coefficient
 - ![image](https://github.com/user-attachments/assets/561d0d73-e5ba-4e55-bca9-fbb2e88d04c7)
+- ![image](https://github.com/user-attachments/assets/30b8ef8a-bb79-4856-b121-a72d1f70da73)
 
 
 - For deep understanding, watch: "2.1 Lesson: Counting Collections from the fat chance probability course."
