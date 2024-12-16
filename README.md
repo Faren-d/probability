@@ -86,6 +86,8 @@ This gives us: 5 × 4 × 3 × 2 × 1 = 5! = 120 different sequences
 - Recognizing that each collection of 5 students can be arranged into 5! different sequences.
 
 Setting up an equation: N (number of collections) * 5! = 15! / 10!
+![image](https://github.com/user-attachments/assets/198cc8c5-b5ad-485f-9fbe-570212175fbd)
+
 
 Unique collections: Solving for N: N = (15! / 10!) / 5! = 3003
 
