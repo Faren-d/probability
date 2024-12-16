@@ -54,6 +54,8 @@ Final calculation:
 what are the difference between sequences and collections, and how to calculate the number of possible collections (combinations) of objects from a larger set?
 
 ### Sequences vs. Collections:
+![image](https://github.com/user-attachments/assets/3ec7d501-53ae-4730-8186-5fe569a6ff62)
+
 
 Sequences are ordered arrangements of objects, while collections are unordered sets of objects.In other words, A collection is different from a sequence, as the objects in a collection are not ordered.
 Example: Electing class officers (President, Vice President, etc.) is a sequence, while choosing a committee of students is a collection.
