@@ -60,11 +60,14 @@ what are the difference between sequences and collections, and how to calculate 
 Sequences are ordered arrangements of objects, while collections are unordered sets of objects.In other words, A collection is different from a sequence, as the objects in a collection are not ordered.
 Example: Electing class officers (President, Vice President, etc.) is a sequence, while choosing a committee of students is a collection.
 
+
+
 ##### Calculating the number of Collections:
 
 
 Take the example of choosing a committee of 5 students from a class of 15 students.Alice, Bob, Charlie, David, Eve, Frank, Grace, Henry, Ivy, Jack, Kate, Leo, Mike, Nancy, and Oscar.
 Let's say we select these 5 students for our committee: Alice, Bob, Charlie, David, and Eve.
+![image](https://github.com/user-attachments/assets/0b5cd76e-05b1-46e5-b476-68e1865dc482)
 
 The process involves:
 
