@@ -136,6 +136,8 @@ If you select students A, B, C, D, E as a collection, the possible sequences inc
 ![n2](https://github.com/user-attachments/assets/4f1ba162-25bc-4cd4-b62c-b85ecc47b42d)
 
 - This states that the binomial coefficient "n choose k"  is equal to "n choose n minus k".
+- ![image](https://github.com/user-attachments/assets/c4308b9e-85ee-4edd-8a24-ff782b3f5f9d)
+
 
 - For example, the number of ways to choose 5 cards from a deck of 52 cards (i.e., 52 choose 5) is the same as the number of ways to choose the 47 cards that are not selected (i.e., 52 choose 47).
 The key idea is that the number of ways to choose a collection of k objects from a set of n objects is the same as the number of ways to choose the remaining n-k objects. This relationship is captured in the equation shown in the image.
