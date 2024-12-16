@@ -124,6 +124,8 @@ If you select students A, B, C, D, E as a collection, the possible sequences inc
 - ... and so on
 
 - Each of these is a different sequence, but they represent the same collection.
+- ![image](https://github.com/user-attachments/assets/561d0d73-e5ba-4e55-bca9-fbb2e88d04c7)
+
 
 - For deep understanding, watch: "2.1 Lesson: Counting Collections from the fat chance probability course."
 
