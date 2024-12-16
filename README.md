@@ -57,7 +57,7 @@ what are the difference between sequences and collections, and how to calculate 
 ![image](https://github.com/user-attachments/assets/3ec7d501-53ae-4730-8186-5fe569a6ff62)
 
 
-Sequences are ordered arrangements of objects, while collections are unordered sets of objects.In other words, A collection is different from a sequence, as the objects in a collection are not ordered.
+Sequences(Permutations) are ordered arrangements of objects, while collections(Combinations) are unordered sets of objects.In other words, A collection is different from a sequence, as the objects in a collection are not ordered.
 Example: Electing class officers (President, Vice President, etc.) is a sequence, while choosing a committee of students is a collection.
 
 
@@ -88,6 +88,7 @@ This gives us: 5 × 4 × 3 × 2 × 1 = 5! = 120 different sequences
 Setting up an equation: N (number of collections) * 5! = 15! / 10!
 ![image](https://github.com/user-attachments/assets/198cc8c5-b5ad-485f-9fbe-570212175fbd)
 
+This means: Number of Sequences = Number of Collections × 5!
 
 Unique collections: Solving for N: N = (15! / 10!) / 5! = 3003
 ![image](https://github.com/user-attachments/assets/d128b8db-f2b5-449e-96eb-30c7ba148913)
@@ -107,6 +108,22 @@ The formula for calculating the number of collections is derived from understand
 
 - Note: Mathematically, division is a form of subtraction. Just like 10 ÷ 2 means "how many groups of 2 can I remove from 10", here we're removing redundant arrangements from the total count.
 - The key point: We want to count unique groups, not every possible ordering of those groups.
+
+- So, the number of sequences is always bigger than the number of collections. To elaborate this:
+For a collection of 5 students, you can create multiple sequences by rearranging those same 5 students. Each unique collection can generate multiple distinct sequences.
+For example:
+
+If you select students A, B, C, D, E as a collection, the possible sequences include:
+
+- A, B, C, D, E
+- A, B, C, E, D
+- A, B, D, C, E
+- A, B, D, E, C
+- A, B, E, C, D
+- A, B, E, D, C
+- ... and so on
+
+- Each of these is a different sequence, but they represent the same collection.
 
 - For deep understanding, watch: "2.1 Lesson: Counting Collections from the fat chance probability course."
 
