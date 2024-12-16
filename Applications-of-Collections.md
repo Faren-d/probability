@@ -20,9 +20,7 @@ Multiply these two numbers to find the total number of possible pizzas: 21 * 15 
 2. Walking routes on a city grid: Imagine you live and work on corners of a rectangular city grid. Your workplace is 3 blocks north and 4 blocks east of your home. To calculate the number of different routes you could walk, you would:456
 
 
-
-
-
+![1](https://github.com/user-attachments/assets/7f0a789f-69bd-49c8-bef8-50ab7761a92a)
 
 - Recognize that any route requires 7 moves (3 north and 4 east).
 - Think of these moves as a sequence of "N" (north) and "E" (east), like "NEEENNE".
