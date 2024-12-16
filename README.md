@@ -90,6 +90,8 @@ Setting up an equation: N (number of collections) * 5! = 15! / 10!
 
 
 Unique collections: Solving for N: N = (15! / 10!) / 5! = 3003
+![image](https://github.com/user-attachments/assets/d128b8db-f2b5-449e-96eb-30c7ba148913)
+
 
 - Important takeaways:
 
