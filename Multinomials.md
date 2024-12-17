@@ -24,6 +24,7 @@ This line of thinking leads to the concept of multinomial coefficients, which pr
 
 Just like the dorm room example, multinomial coefficients can also be applied to other scenarios, such as counting the number of possible anagrams of a word with repeated letters.
 
+
 ## Example: Think about the "Mississippi" example to illustrate how multinomial coefficients handle anagrams with repeated letters:
 
 How many different ways can we rearrange these letters to form distinct anagrams?
@@ -37,6 +38,7 @@ The word "Mississippi" has 11 letters:
 ●Two "P"s
 
 ●One "M"
+
 
 ### Solution
 
